@@ -52,6 +52,6 @@ Carry out coupons are the most accepted ones overall.
 
 This plot shows that this is true. Cheap restaurant coupons are a close second in most accepted coupons as well.
 
-
+[Full Jupyter Notebook Link](coupon_analysis.ipynb)
 
 
